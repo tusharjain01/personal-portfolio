@@ -39,16 +39,16 @@ function Home() {
           <li className="item">
             <h2>Front-End</h2>
             <span>
-              ReactJS,Redux,HTML,CSS,NPM, BootStrap,MaterialUI
+              ReactJS, Redux, HTML, CSS, NPM, BootStrap, MaterialUI
             </span>
           </li>
           <li className="item">
             <h2>Languages</h2>
-            <span>JavaScript,Java,Python,C#,C,C++</span>
+            <span>JavaScript, Java, Python, C#, C, C++</span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
-            <span>MySQL,MongoDB,Amazon S3,MS SQL</span>
+            <span>MySQL, MongoDB, Amazon AWS S3, MS SQL</span>
           </li>
         </ol>
       </div>
