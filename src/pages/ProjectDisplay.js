@@ -14,7 +14,7 @@ function ProjectDisplay() {
       <img src={project.image} alt={project.name} />
       <p><b><Link to={project.url}>Project Link</Link></b></p>
       <p>
-        <b>Skils</b> <br/>{project.skills}
+        <b>Skills</b> <br/>{project.skills}
       </p>
     </div>
     </>
